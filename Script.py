@@ -222,14 +222,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """📂 <b>Filename:</b> <a href='https://t.me/MovieSearchAutoGroup'>{file_name}</a>
+    CAPTION = """📂 <b>Filename:</b> <a href='https://t.me/Akash018812'>{file_name}</a>
 sɪᴢᴇ ⚙️: {file_size}
-•────•────✦✗✦───•────•
-📌 <b>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ :➠</b> <a href='https://t.me/+aAmjR1AgZmRlOGJl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ✨</a>
-🎬 <b>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ :➠</b> <a href='https://t.me/+iXwNgNXtOkk1OTVl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ♨️</a>
-•────•────✦✗✦───•────•
-
-<b>©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :</b> <a href='https://t.me/+iXwNgNXtOkk1OTVl'>ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
+•────•────✦✗✦───•────•</a>
 """
 
     IMDB_TEMPLATE_TXT = """
